@@ -1,4 +1,4 @@
-{"version_code":451219,"content":"
+{"version_code":451221,"content":"
 <p> تحديث 1.70 (Update) </p>
 
 
@@ -40,6 +40,6 @@
 <li> Increase the number of members of the broadcasts to 1024</li>
 
 
-","url":"https://kiwhatsapp.blogspot.com/2018/11/quwhatsapp-2019.html"
+","url":"http://www.kiwhatsapp.blogspot.com/2018/11/quwhatsapp-2019.html"
 
 }
