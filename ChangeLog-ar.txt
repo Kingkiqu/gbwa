@@ -1,6 +1,6 @@
 {"version_code":451221,"content":"
 <p> تحديث 1.95 (Update) </p>
-
+<p>10/12/2019</p>
 
 <li>تحديث الى اصدار 2.19.273 من نسخة المتجر</li>
 
@@ -21,6 +21,6 @@
 <p>Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version</p>
 
 
-","url":"https://kiwhatsapp.blogspot.com/2019/12/whatsapp-gold-abo3rab.html"
+","url":"https://kiwhatsapp.blogspot.com/p/ki-wahtsapp-adsbygoogle-window.html"
 
 }
