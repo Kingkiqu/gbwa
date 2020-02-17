@@ -1,26 +1,23 @@
-{"version_code":451221,"content":"
-<p> تحديث 1.95 (Update) </p>
-<p>10/12/2019</p>
+{"version_code":452895,"content":"
+<p> تحديث 2.00 (Update) </p>
+<p>16/02/2020</p>
 
-<li>تحديث الى اصدار 2.19.273 من نسخة المتجر</li>
+<li>زيادة اعادة التوجية الى مالانهاية</li>
 
-<li>نواجه صعوبات في اضافة المميزات السابقة بسبب سياسات شركة الواتساب ، سنحاول اضافتها لاحقا ان شاء الله</li>
+<li>اصلاح مشكلة الثيمات واضافة سرفر ثيمات يحتوي على اكثر من 1000 ثيم جديد</li>
 
-<li>أضافة يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
+<li>نسخة تعمل مع الاجهزة القديمه بدون اي مشاكل او انهيارات</li>
 
-<li>زيادة حجم الحاله الى اكثر من 15 دقائق بدلا من 30 ثانيه</li>
+<li>تستطيع الان تثبيت اكثر من 1000 محادثة</li>
 
-<li> أضافة قفل النمط لقفل الواتساب بي الكامل</li>
+<li>تمديد عمر النسخه 4 اشهر</li>
 
-<li>ضد الحظر إصلاح مشكلة الحظر المؤقت</li>
+<li>زيادة مدة حجم الحالة الى اكثر من 10 دقائق</li>
 
-<li>حل مشكلة تاخر وصول الرسائل او تاخر ارسال الرسائل</li>
+<li>تنبية: اذا تم حظر رقمك مؤقت قم بعمل نسخ احتياطي من اعدادات الواتس اب وبعد ذلك قم بحذف التطبيق وتثبيت النسخة الجديدة.</li>
 
-<li>اصلاحات اخرى</li>
+<p>You can now install more than 1000 conversations</p>
 
-<p>Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version</p>
-
-
-","url":"https://kiwhatsapp.blogspot.com/p/ki-wahtsapp-adsbygoogle-window.html"
+","url":"https://kiwhatsapp.blogspot.com/2019/12/whatsapp-plus-gold.html"
 
 }
