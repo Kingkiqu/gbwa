@@ -1,1 +1,1 @@
-# QUWhatsApp
+# WhatsApp Gold
